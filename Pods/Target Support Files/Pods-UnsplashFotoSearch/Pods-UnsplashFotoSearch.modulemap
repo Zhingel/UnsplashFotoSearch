@@ -1,0 +1,6 @@
+framework module Pods_UnsplashFotoSearch {
+  umbrella header "Pods-UnsplashFotoSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
